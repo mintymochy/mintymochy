@@ -1,7 +1,6 @@
-### Hi there 👋
-[Website](https://sleepym0cha.dev/#)
-<!--
-**mintymochy/mintymochy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### hihi!!
+#welcome to my github I probably won't be posting a lot of things on here that often but maybe more in the future!
+#I'm currently learning java, html, and css! 
 
-Here are some ideas to get you started:
-
+#[My Personal Website](https://sleepym0cha.dev/#)
+^ my socials can be found here ^
