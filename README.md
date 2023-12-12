@@ -3,4 +3,4 @@
 # I'm currently learning java, html, and css! 
 
 # [My Personal Website](https://sleepym0cha.dev/#)
-# ^ my socials can be found here ^
+^ my socials can be found here ^
